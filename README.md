@@ -102,7 +102,7 @@ The final model recommended for production is highlighted in the notebook.
 ---
 
 ## Author
-Naveen Kumar Kathir  
+Naveen Kumar 
 Data Science Enthusiast
 
 ---
